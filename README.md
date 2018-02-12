@@ -1,10 +1,12 @@
 # Kaggle Mercari Price Suggestion Challenge
 
-[Competition link](https://www.kaggle.com/c/mercari-price-suggestion-challenge)
+[Competition link](https://www.kaggle.com/c/mercari-price-suggestion-challenge) | [My submission](https://www.kaggle.com/t35khan/tfidf-driven-xgboost)
+
+[xgboost](http://xgboost.readthedocs.io/en/latest/python/python_api.html) | [TFIDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) | [Stemming](https://en.wikipedia.org/wiki/Stemming)
 
 ### Methodology 
 
-Dataset contains 5 variables - item name, item condition, category name, brand name, shipping info and item description.
+Dataset contains 5 feature variables - item name, item condition, category name, brand name, shipping info and item description - and a target variable price which is continuous.
 
 Item name and item descriptions are texts with an impractical amount of levels; so they require some preprocessing. The rest can be just be encoded to a numerical variable. 
 
