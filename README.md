@@ -6,7 +6,7 @@
 
 ### Methodology 
 
-Dataset contains 5 feature variables - item name, item condition, category name, brand name, shipping info and item description - and a target variable price which is continuous.
+Dataset contains 6 feature variables - item name, item condition, category name, brand name, shipping info and item description - and a target variable price which is continuous.
 
 Item name and item descriptions are texts with an impractical amount of levels; so they require some preprocessing. The rest can be just be encoded to a numerical variable. 
 
