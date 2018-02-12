@@ -1,8 +1,8 @@
 # Kaggle Mercari Price Suggestion Challenge
 
-<a href="https://www.kaggle.com/c/mercari-price-suggestion-challenge" target="_blank">Competition link</a> | <a href="https://www.kaggle.com/t35khan/tfidf-driven-xgboost" target="_blank">My submission</a>
+<a href="https://www.kaggle.com/c/mercari-price-suggestion-challenge" target="blank">Competition link</a> | <a href="https://www.kaggle.com/t35khan/tfidf-driven-xgboost" target="blank">My submission</a>
 
-<a href="http://xgboost.readthedocs.io/en/latest/python/python_api.html" target="_blank">xgboost</a> | | <a href="https://en.wikipedia.org/wiki/Tf%E2%80%93idf" target="_blank">TFIDF</a> | <a href="https://en.wikipedia.org/wiki/Stemming" target="_blank">Stemming</a>
+<a href="http://xgboost.readthedocs.io/en/latest/python/python_api.html" target="blank">xgboost</a> | | <a href="https://en.wikipedia.org/wiki/Tf%E2%80%93idf" target="blank">TFIDF</a> | <a href="https://en.wikipedia.org/wiki/Stemming" target="_blank">Stemming</a>
 
 ### Methodology 
 
