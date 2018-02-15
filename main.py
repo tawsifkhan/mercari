@@ -159,7 +159,7 @@ if __name__ == '__main__':
     test = csr_matrix(test.values)
     test = hstack([test,transformed[train.shape[0]:]])
     
-    X_train, X_valid, y_train, y_valid = train_test_split(train, y, test_size=0.80, random_state=123)
+    X_train, X_valid, y_train, y_valid = train_test_split(train, y, test_size=0.20, random_state=123)
     
     del train
     gc.collect()
@@ -167,7 +167,7 @@ if __name__ == '__main__':
     print("\nStep 6 of 6: Model and predict.")
     if dev_mode in [2,3]:
         print("Creating predictor.")
-        xgb_model = XGBRegressor(n_estimators=800
+        xgb_model = XGBRegressor(n_estimators=150
                                     ,max_depth = 38
                                     ,min_child_weight = 11
                                     ,n_jobs = 4
