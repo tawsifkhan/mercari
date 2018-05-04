@@ -27,4 +27,4 @@ Finally I implemented a gradient boosting algorithm and tuned the hyper-paramete
 #### Leaderboard score 0.48978 (RMSLE)
 
 
-<a href="https://tawsifkhan.github.io" target="_blank">Other projects</a>
+<a href="https://tawsifkhan.github.io/portfolio/projects/" target="_blank">Other projects</a>
